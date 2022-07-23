@@ -1,9 +1,8 @@
 import React from 'react';
 
 function App() {
-  var hello = "";
-
-  console.log("Hello")
+  const Hello = '';
+  console.log(Hello);
   return (
     <div>
       <h1>hello hvaly</h1>
