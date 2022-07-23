@@ -1,5 +1,6 @@
 import React from 'react';
-
+ var hello = "";
+ console.log(hello);
 function App() {
   return (
     <div>
@@ -8,4 +9,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
