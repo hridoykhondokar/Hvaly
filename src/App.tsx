@@ -1,7 +1,9 @@
 import React from 'react';
- var hello = "";
- console.log(hello);
+
 function App() {
+  var hello = "";
+
+  console.log("Hello")
   return (
     <div>
       <h1>hello hvaly</h1>
