@@ -1,11 +1,10 @@
 import React from 'react';
+import AppRouter from './AppRouter';
 
 function App() {
-  const Hello = '';
-  console.log(Hello);
   return (
     <div>
-      <h1>hello hvaly</h1>
+      <AppRouter />
     </div>
   );
 }
